@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://media1.tenor.com/m/sVd55_OyGooAAAAC/hu-tao.gif"  />
+  <img height="150" src="https://media1.tenor.com/m/sVd55_OyGooAAAAC/hu-tao.gif"  />
 </div>
 
 ###
@@ -52,6 +52,10 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Kyluxx/Kyluxx/output/snake.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+</picture>
 
 ###
