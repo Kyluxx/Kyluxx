@@ -21,8 +21,6 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=redux" height="30" alt="redux logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/nextdotjs/000000" height="30" alt="nextjs logo"  />
-  <img width="12" />
   <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="30" alt="nodejs logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="30" alt="postgresql logo"  />
@@ -53,10 +51,19 @@
 <br clear="both">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
-</picture>
+      <source
+    media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+      />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/xct007/xct007/output/github-contribution-grid-snake.svg"
+      />
+    <img
+      alt="Snake"
+      src="https://raw.githubusercontent.com/xct007/xct007/output/github-contribution-grid-snake.svg"
+      />
+  </picture>
 
 ###
 
